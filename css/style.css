@@ -10,8 +10,9 @@
 body {
 	margin-bottom: 2em;
 	font-family: Open Sans Condensed;
-	margin-right: 17%;
-	margin-left: 17%;
+	width: 1090px;
+	margin-right: auto;
+	margin-left: auto;
 }
 
 #head_left {
@@ -71,7 +72,6 @@ section {
 	background-image: url('/GROUP-7C---INSE-CW/img/bg.png');
 	padding-right: 1em;
 	padding-left: 1em;
-	width: 1060px;
 	box-shadow: 12px 0 15px -4px rgba(150, 150, 150, 1), -12px 0 8px -4px rgba(150, 150, 150, 1);
 }
 
