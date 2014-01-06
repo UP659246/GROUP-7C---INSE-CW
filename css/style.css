@@ -15,6 +15,15 @@ body {
 	margin-left: auto;
 }
 
+
+
+#WBTCanvas {
+
+  border:1px solid #000000;
+  position:absolute;
+
+}
+
 #head_left {
 	float: left;
 	width: 400px;
